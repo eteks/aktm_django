@@ -1,0 +1,10 @@
+http://127.0.0.1:8000/save_key_status/?company=B&branch=Anna%20Nagar&product_id=1&box_id=4&key_status=out&createdby=hari&createdat=Sep21,2017 12:43 PM
+
+Configuration parameters:-
+	company = <company name> (char(255))
+	branch = <branch name> (char(255))
+	product_id = <product ID> (Integer)
+	box_id = <box number> (Integer)
+	key_status = <Key status> (IN, OUT)
+	createdby = <Username> (char(255)) 
+	createdat = <Date Time stamp> (char(255))
